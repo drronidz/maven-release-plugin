@@ -32,7 +32,7 @@
     </dependencies>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/drronidz/maven-release-plugin.git</developerConnection>
+        <developerConnection>scm:scm:git@github.com:drronidz/maven-release-plugin.git</developerConnection>
         <url>https://github.com/drronidz/maven-release-plugin</url>
         <tag>HEAD</tag>
     </scm>
