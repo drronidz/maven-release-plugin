@@ -9,4 +9,8 @@ public class JavaHelloWorld {
         return "Hello World";
     }
 
+    public String setHello(String helloMessage) {
+        return "Hello my Brother";
+    }
+
 }
