@@ -33,7 +33,7 @@
 
     <scm>
         <developerConnection>scm:scm:git@github.com:drronidz/maven-release-plugin.git</developerConnection>
-        <url>git@github.com:drronidz/maven-release-plugin</url>
+<!--        <url>git@github.com:drronidz/maven-release-plugin</url>-->
         <tag>HEAD</tag>
     </scm>
 
