@@ -4,7 +4,7 @@
 
     <groupId>cleverdeveloper.springframework</groupId>
     <artifactId>maven-release-plugin</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -33,7 +33,7 @@
     <scm>
         <developerConnection>scm:git:https://github.com/drronidz/maven-release-plugin.git</developerConnection>
         <url>https://github.com/drronidz/maven-release-plugin</url>
-        <tag>maven-release-plugin-1.0.1</tag>
+        <tag>maven-release-plugin-1.0.1-SNAPSHOT</tag>
     </scm>
 
     <build>
