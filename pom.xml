@@ -33,7 +33,6 @@
     <scm>
         <developerConnection>scm:git:https://github.com/drronidz/maven-release-plugin.git</developerConnection>
         <url>https://github.com/drronidz/maven-release-plugin</url>
-        <tag>maven-release-plugin-1.0.1-SNAPSHOT</tag>
     </scm>
 
     <build>
